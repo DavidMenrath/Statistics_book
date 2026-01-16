@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Editor / OS junk ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Logs & temp files ----
+*.log
+*.tmp
+*.swp
+
+# ---- Data / outputs (adjust if needed) ----
+data/
+outputs/
+results/
+figures/
+
+# ---- Cache ----
+.cache/
